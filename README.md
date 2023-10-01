@@ -1,9 +1,15 @@
-[![MasterHead](https://www.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg)]()
+
+ [![MasterHead](https://www.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg)]()
+
+
+ 
+
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Yaqoob</h1>
 <h3 align="center">A good hand on frontend and learning backend</h3>
-<img align="right" alt="Coding" width="400" src="[[[(https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966)](https://i.gifer.com/3odR.gif)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZn75l0BuEvcBp5frWu6UAAwDQoO66Tj46kA&usqp=CAU)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU)">
+<img align="right" alt="Coding" width="400"  src="https://i.gifer.com/3odR.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadyaqoobmuet&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadyaqoobmuet" /> </p>
 
