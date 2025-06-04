@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working full stack SaaS products With Nextjs and TypeSript<br>🌱 I’m currently learning backend security and deployment<br>👨🏼‍🎓 studying Software Engineering at Mehran University of Engineering <br>👨🏼‍💻 working as a web developer since 2023
+🔭 I’m currently working on full stack SaaS products With Nextjs and TypeSript<br>🌱 I’m currently learning backend security and deployment<br>👨🏼‍🎓 studying Software Engineering at Mehran University of Engineering <br>👨🏼‍💻 working as a web developer since 2023
 
 
 ## 🌐 Socials:
